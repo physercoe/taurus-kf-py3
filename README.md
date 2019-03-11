@@ -1,6 +1,7 @@
 Intro 简介
 ========
-功夫是 [Taurus.ai](http://taurus.ai) 团队专为量化交易者设计的低延迟交易执行系统,代码原地址https://github.com/taurusai/kungfu，采用的python为2.7版本，原repository中也有pybind11分支实现python3的支持。本项目基于boost实现了python3的支持,较源代码改变较少。
+功夫是 [Taurus.ai](http://taurus.ai) 团队专为量化交易者设计的低延迟交易执行系统,代码原地址https://github.com/taurusai/kungfu
+采用的python为2.7版本，原repository中也有pybind11分支实现python3的支持。本项目基于boost实现了python3的支持,较源代码改变较少。
 
 开发环境：
 Manjaro（arch)
