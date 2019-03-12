@@ -1,5 +1,0 @@
-Git Version : GITDIR-NOTFOUND
-Build System: Linux-4.14.102-1-MANJARO
-CMake       : /usr/bin/cmake
-Builder     : wubin
-Time        : 20190308200214
